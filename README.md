@@ -1,1 +1,1 @@
-# clone-JedWatson-exenv
+Clone [JedWatson/exenv: React's ExecutionEnvironment module extracted for use in other packages & components](https://github.com/JedWatson/exenv) for study.
